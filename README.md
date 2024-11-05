@@ -6,6 +6,10 @@ This repository contains an implementation of a linear diffusion model using R6 
 
 The script defines a `LinearDiffusion` class that encapsulates the functionality for training and sampling from a linear diffusion model. It utilizes the R6 package for object-oriented programming in R and includes functions for linear beta scheduling, noise prediction, and sampling.
 
+<p align="center">
+  <img src="https://github.com/riccardoc95/LinearDiffusion/blob/main/sample.png" />
+</p>
+
 ## Requirements
 
 To run the script, you need to have R installed along with the following packages:
