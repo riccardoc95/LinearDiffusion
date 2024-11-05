@@ -164,7 +164,7 @@ library(gridExtra)
 # Settings
 image_size <- 28
 timesteps <- 100
-latent_size <- 9
+latent_size <- 2
 
 # Dataset
 mnist <- tryCatch({
