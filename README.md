@@ -1,6 +1,6 @@
 # Linear Diffusion Model in R
 
-This repository contains an implementation of a linear diffusion model using R6 classes in R. The model can be trained on images (e.g., MNIST dataset) and can generate samples based on the learned diffusion process. 
+This repository is a fork of [willkurt/linear-diffusion](https://github.com/willkurt/linear-diffusion), originally in Python, with modifications and translation to R. It contains an implementation of a linear diffusion model using R6 classes in R. The model can be trained on images (e.g., MNIST dataset) and can generate samples based on the learned diffusion process. 
 
 ## Overview
 
